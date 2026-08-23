@@ -1,0 +1,19 @@
+# Core AI / API
+openai==2.31.0
+python-dotenv==1.2.1
+tiktoken==0.12.0
+
+# Retrieval
+faiss-cpu==1.13.0
+numpy==2.0.2
+rank-bm25==0.2.2
+
+# Web UI
+gradio==6.12.0
+
+# PDF Processing
+PyMuPDF==1.26.5
+
+# Agentic / MCP
+fastmcp==3.2.4
+duckduckgo-search==8.1.1

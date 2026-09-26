@@ -1,12 +1,4 @@
 # ⚖️ RAG Regulators — Kaggle AI Assistants Hackathon
-
-## Team Members
-
-| Name | Role |
-|---|---|
-| Nithya Niharika Kotcherla | Architecture, MCP & Agentic Pipeline | Retrieval & Evaluation |
-| Amruth Ganta | Data Extraction & Chunking| Evaluation & Signal Integration |
-
 ---
 
 ## Project Overview

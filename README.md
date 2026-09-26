@@ -4,10 +4,8 @@
 
 | Name | Role |
 |---|---|
-| Amruth Ganta | Architecture, MCP & Agentic Pipeline |
-| Vedant Rajput | Retrieval & Evaluation |
-| Nithya Niharika Kotcherla | Data Extraction & Chunking |
-| Rishi Varma Budime | Evaluation & Signal Integration |
+| Nithya Niharika Kotcherla | Architecture, MCP & Agentic Pipeline | Retrieval & Evaluation |
+| Amruth Ganta | Data Extraction & Chunking| Evaluation & Signal Integration |
 
 ---
 
